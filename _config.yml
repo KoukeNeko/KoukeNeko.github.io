@@ -1,10 +1,10 @@
-title: Hexo
+title: KoukeNeko's Logs
 subtitle: ''
 description: ''
 keywords: null
 author: John Doe
 language: en
-timezone: ''
+timezone: 'Asia/Taipei'
 url: http://example.com
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
