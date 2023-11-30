@@ -12,8 +12,8 @@ favicon:                   # Path to the custom favicon (e.g. "/favicon.png" if 
 
 # Banner
 banner:
-  enable: false            # Display banner
-  url: /assets/banner.png
+  enable: true            # Display banner
+  url: /assets/banner.pnghttps://scontent.fkhh5-1.fna.fbcdn.net/v/t39.30808-6/386512444_852278483189759_6762328626297918322_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=783fdb&_nc_ohc=dOwkIxKWMooAX8tpVRN&_nc_oc=AQmZ2H9UyxLzbIg0UmjyJnZA-iaKeCDoocr6X6cw_ZbaOdFfP2F7eXDdm6gAtyBtM84&_nc_ht=scontent.fkhh5-1.fna&oh=00_AfBZLNjEgA9kcg7VSDXE_7ZT5JRw1YPBtj-G3UhjD4iBpA&oe=656DBDFA
   position: center         # Specifies the alignment of the image, see the "object-position" property in CSS
   onAllPages: true         # Display banner on all pages
 
@@ -39,18 +39,18 @@ categories:
 
 # Personal info
 avatar: 
-author: Your Name
-subtitle: This is the subtitle
+author: KoukeNeko
+subtitle: KoukeNeko's Blog
 links:
   - name: Twitter
     icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
-    url: https://twitter.com
+    url: https://twitter.com/doeshing
   - name: Steam
     icon: fa-brands fa-steam
     url: https://store.steampowered.com
   - name: GitHub
     icon: fa-brands fa-github
-    url: https://github.com
+    url: https://github.com/KoukeNeko
 
 comment:
   valine:
